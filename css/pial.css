@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.fist{
+	
+}
+.link-medai{
+	text-align: center;
+	padding: 20px;
+
+}
+.link-medai ul li{
+	list-style:none;display:inline-block;margin: 0 20px;
+}
+.link-medai ul li a{
+	font-size: 50px;
+	background: white;
+	border-radius: 100px;
+}
+.hed{
+	background: blue;
+}
+.hed p{
+	margin-left: 574px;
+	color: white;
+}
+.hed img{
+	width: 400px;
+}
